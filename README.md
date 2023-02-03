@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @realminhnguyen
 - 👀 I’m interested in the tech world!
-- 🌱 I’m currently learning C++, Python, OpenCV library, and more.
+- 🌱 I’m currently learning C++, Python, Swift, and more.
 - 💞️ I’m looking to collaborate on future projects when I make myself available
 - 📫 How to reach me ... We will see
 
